@@ -1,0 +1,104 @@
+{
+  "uid" : "c8755ea4166c6557",
+  "name" : "Given I am on the Automation practice website page",
+  "fullName" : "Automation practice website page: As a user, I register on the website.Given I am on the Automation practice website page",
+  "historyId" : "d6ba2f7d7ddb22822028f3784f9eab93",
+  "time" : {
+    "start" : 1630668458608,
+    "stop" : 1630668460083,
+    "duration" : 1475
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1630668458617,
+        "stop" : 0,
+        "duration" : -1630668458617
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "GET /session/:sessionId/screenshot",
+        "time" : {
+          "start" : 1630668460078,
+          "stop" : 0,
+          "duration" : -1630668460078
+        },
+        "status" : "unknown",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "12aee164658ac23b",
+        "name" : "Request",
+        "source" : "12aee164658ac23b.json",
+        "type" : "application/json",
+        "size" : 54
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 1,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Automation practice website page: As a user, I register on the website"
+  }, {
+    "name" : "testClass",
+    "value" : "Automation practice website page: As a user, I register on the website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the Automation practice website page"
+  }, {
+    "name" : "package",
+    "value" : "Automation practice website page: As a user, I register on the website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c8755ea4166c6557.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}

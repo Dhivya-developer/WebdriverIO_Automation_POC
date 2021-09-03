@@ -1,0 +1,72 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1630652041413' stop='1630652041519'>
+    <name>The Internet Guinea Pig Website: As a user, I register on the website</name>
+    <title>The Internet Guinea Pig Website: As a user, I register on the website</title>
+    <test-cases>
+        <test-case start='1630652041414' status='passed' stop='1630652041416'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-93.0.4577.63'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1630652041416' status='passed' stop='1630652041425'>
+            <name>Given I am on the Automation practice website page</name>
+            <title>Given I am on the Automation practice website page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-93.0.4577.63'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1630652041426' status='broken' stop='1630652041516'>
+            <name>When I signin on the page</name>
+            <title>When I signin on the page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-93.0.4577.63'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>TypeError: Cannot read property 'isDisplayed' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'isDisplayed' of undefined
+                    at LoginPage.waitForloginPageToLoad (E:\WebdriverIO_POM\pageobjects\/login.page.js:14:30)
+                    at LoginPage.signIn (E:\WebdriverIO_POM\pageobjects\/login.page.js:19:15)
+                    at World.&lt;anonymous> (E:\WebdriverIO_POM\step-definitions\/steps.js:23:15)
+                    at World.executeAsync (E:\WebdriverIO_POM\node_modules\@wdio\utils\build\shim.js:285:25)
+                    at World.testFrameworkFnWrapper (E:\WebdriverIO_POM\node_modules\@wdio\utils\build\test-framework\testFnWrapper.js:45:32)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1630652041516' status='passed' stop='1630652041517'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-93.0.4577.63'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

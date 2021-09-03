@@ -1,0 +1,104 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "The Internet Guinea Pig Website: As a user, I register on the website",
+    "children" : [ {
+      "name" : "When I signin on the page",
+      "uid" : "853f3d23f6f20fc3",
+      "parentUid" : "1fb28900a2f32e2826a7de60371ae328",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630660085758,
+        "stop" : 1630660086759,
+        "duration" : 1001
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.63" ]
+    }, {
+      "name" : "Given I am on the Automation practice website page",
+      "uid" : "6505027d02e68511",
+      "parentUid" : "1fb28900a2f32e2826a7de60371ae328",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630665941960,
+        "stop" : 1630665944617,
+        "duration" : 2657
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.63" ]
+    }, {
+      "name" : "And I signin on the page",
+      "uid" : "a17260ffce7e7c82",
+      "parentUid" : "1fb28900a2f32e2826a7de60371ae328",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630665944617,
+        "stop" : 1630665948390,
+        "duration" : 3773
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.63" ]
+    }, {
+      "name" : "",
+      "uid" : "66e51ca035183b27",
+      "parentUid" : "1fb28900a2f32e2826a7de60371ae328",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630665948390,
+        "stop" : 1630665948397,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.63" ]
+    } ],
+    "uid" : "1fb28900a2f32e2826a7de60371ae328"
+  }, {
+    "name" : "Automation practice website page: As a user, I register on the website",
+    "children" : [ {
+      "name" : "Given I am on the Automation practice website page",
+      "uid" : "c8755ea4166c6557",
+      "parentUid" : "680293d9a5ba5c83d4e3bddaa14b5d0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630668458608,
+        "stop" : 1630668460083,
+        "duration" : 1475
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.63" ]
+    }, {
+      "name" : "And I signin on the page",
+      "uid" : "2fdc6cd554486688",
+      "parentUid" : "680293d9a5ba5c83d4e3bddaa14b5d0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630668460083,
+        "stop" : 1630668461118,
+        "duration" : 1035
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.63" ]
+    }, {
+      "name" : "",
+      "uid" : "bbf416e4819e840f",
+      "parentUid" : "680293d9a5ba5c83d4e3bddaa14b5d0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630668461118,
+        "stop" : 1630668461125,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.63" ]
+    } ],
+    "uid" : "680293d9a5ba5c83d4e3bddaa14b5d0a"
+  } ]
+}

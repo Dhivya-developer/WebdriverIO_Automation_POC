@@ -1,0 +1,66 @@
+{
+  "uid" : "bbf416e4819e840f",
+  "name" : "",
+  "fullName" : "Automation practice website page: As a user, I register on the website.",
+  "historyId" : "6b0bd5af816e310f72bce4e876444964",
+  "time" : {
+    "start" : 1630668461118,
+    "stop" : 1630668461125,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Automation practice website page: As a user, I register on the website"
+  }, {
+    "name" : "testClass",
+    "value" : "Automation practice website page: As a user, I register on the website"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Automation practice website page: As a user, I register on the website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b7fb6aec6176aa10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630668458603,
+        "stop" : 1630668458607,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bbf416e4819e840f.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}

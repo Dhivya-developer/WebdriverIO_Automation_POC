@@ -1,0 +1,71 @@
+[ {
+  "uid" : "66e51ca035183b27",
+  "name" : "",
+  "time" : {
+    "start" : 1630665948390,
+    "stop" : 1630665948397,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a17260ffce7e7c82",
+  "name" : "And I signin on the page",
+  "time" : {
+    "start" : 1630665944617,
+    "stop" : 1630665948390,
+    "duration" : 3773
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bbf416e4819e840f",
+  "name" : "",
+  "time" : {
+    "start" : 1630668461118,
+    "stop" : 1630668461125,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6505027d02e68511",
+  "name" : "Given I am on the Automation practice website page",
+  "time" : {
+    "start" : 1630665941960,
+    "stop" : 1630665944617,
+    "duration" : 2657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2fdc6cd554486688",
+  "name" : "And I signin on the page",
+  "time" : {
+    "start" : 1630668460083,
+    "stop" : 1630668461118,
+    "duration" : 1035
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8755ea4166c6557",
+  "name" : "Given I am on the Automation practice website page",
+  "time" : {
+    "start" : 1630668458608,
+    "stop" : 1630668460083,
+    "duration" : 1475
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "853f3d23f6f20fc3",
+  "name" : "When I signin on the page",
+  "time" : {
+    "start" : 1630660085758,
+    "stop" : 1630660086759,
+    "duration" : 1001
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
