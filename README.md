@@ -6,7 +6,7 @@ These tests are developed in JavaScript  with WebDriverIO V6 and BDD Cucumber
 Features
 This project developed with below features
 
-•	WebdriverIO V6
+•	WebdriverIO
 
 •	Cucumber
 
@@ -44,7 +44,6 @@ Below command to be run to generate a config file with wdio configuration helper
 
 ./node_modules/.bin/wdio config
 
-Refer: https://v5.webdriver.io/docs/clioptions.html
 
 **Chai-Assertion **
 
